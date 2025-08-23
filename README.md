@@ -1,4 +1,4 @@
-# temp-converter-js
+# temp-converter
 
 🌡️ Temperature Converter (JavaScript)
 
